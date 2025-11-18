@@ -60,7 +60,7 @@
         "serve": {
           "builder": "@angular/build:dev-server",
           "options": {
-            "browserTarget": "braincenter-fe:build",
+            "buildTarget": "braincenter-fe:build",
             "proxyConfig": "proxy.conf.json"
           },
           "configurations": {
