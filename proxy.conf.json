@@ -1,6 +1,6 @@
 {
     "/account": {
-        "target": "http://localhost:8080",
+        "target": "https://braincenter-fe.onrender.com/",
         "secure": false,
         "changeOrigin": true
     }
